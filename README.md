@@ -1,4 +1,4 @@
-# EOG Project
+# 🚀 EOG Project
 This project is a Digital Signal Processing-based Electrooculography (EOG) Signal Classifier. It provides a graphical interface to load EOG signals, preprocess them, extract features, train machine learning models, and classify eye movements (Up vs Down). with *best Accuracy = 96%* on Random Forest
 
 ## 📌 Features
