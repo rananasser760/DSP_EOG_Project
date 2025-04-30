@@ -19,7 +19,7 @@ This project is a Digital Signal Processing-based Electrooculography (EOG) Signa
 - pywavelets (`pywt`)
 - tkinter (standard in Python installations)
 
-## How to run:
+## ▶️ How to run:
   - ### Install the required libraries:
       - pip install numpy scipy matplotlib scikit-learn pywt
   - ### Run the application:
