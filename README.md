@@ -25,15 +25,15 @@ This project is a Digital Signal Processing-based Electrooculography (EOG) Signa
   - ### Run the application:
       - python project.py
 
-## Use the GUI to:
+  - ### Use the GUI to:
 
-- Load training/testing .txt files
+      - Load training/testing .txt files
+      
+      - Choose the model
+      
+      - Train and predict
 
-- Choose the model
-
-- Train and predict
-
-- View results in the output box
+      - View results in the output box
 
 ## 🙋‍♀️ Created by:
 ### Rana Nasser
