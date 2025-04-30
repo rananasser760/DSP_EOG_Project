@@ -21,7 +21,7 @@ This project is a Digital Signal Processing-based Electrooculography (EOG) Signa
 
   ## How to run:
   - ### Install the required libraries:
-      -pip install numpy scipy matplotlib scikit-learn pywt
+      - pip install numpy scipy matplotlib scikit-learn pywt
   - ### Run the application:
       - python project.py
 
