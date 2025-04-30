@@ -33,7 +33,7 @@ This project is a Digital Signal Processing-based Electrooculography (EOG) Signa
 
 - Train and predict
 
-### View results in the output box
+- View results in the output box
 
 ## 🙋‍♀️ Created by:
 ### Rana Nasser
