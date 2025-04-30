@@ -27,11 +27,11 @@ This project is a Digital Signal Processing-based Electrooculography (EOG) Signa
 
 ## Use the GUI to:
 
-### Load training/testing .txt files
+- Load training/testing .txt files
 
-### Choose the model
+- Choose the model
 
-### Train and predict
+- Train and predict
 
 ### View results in the output box
 
